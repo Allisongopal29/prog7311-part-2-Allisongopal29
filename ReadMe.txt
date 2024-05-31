@@ -97,6 +97,7 @@ Before the user starts using the platform the user will have to Register, they a
 	a 3rd year application development student at varsity college, 
 	May 2024.
 Git repo: https://github.com/VCDN-2024/prog7311-part-2-Allisongopal29
+Working Git Link: https://github.com/Allisongopal29/prog7311-part-2-Allisongopal29
 YouTube link: https://youtu.be/0cpsC8nGcBs
 
 Reference List/Bibliography:
